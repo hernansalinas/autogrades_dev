@@ -1,4 +1,4 @@
-Auto-grading
+# Auto-grading
 
 This program performs the auto-grading in html inside a jupyter notebook.
 
