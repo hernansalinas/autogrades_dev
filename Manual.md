@@ -1,3 +1,5 @@
+Author: Hernan David Salinas Jimenez
+
 Libraries description in bin folder
 
 To perform the unit test of any function, variable or result we need to instantiate the object add_configuration, and use the following methods:
@@ -95,3 +97,6 @@ Labs_student/
 
 %run libs/libUnitTest1.py
 %run test/test01.py
+
+
+
